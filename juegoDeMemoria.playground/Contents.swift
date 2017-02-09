@@ -10,7 +10,7 @@ for var i = 1; i < numeros.count; i++ {
         print("#\t\(i)\tViva Swift!")
     }
     
-    else if  (i%5) == 0 {                       // divisible de 5
+    else if  (i%5) == 0 {                       // divisible entre 5
         print("#\t\(i)\tBingo!!!")
     }
     
@@ -25,4 +25,4 @@ for var i = 1; i < numeros.count; i++ {
 
 }
 
-// Xavi
+// Done
